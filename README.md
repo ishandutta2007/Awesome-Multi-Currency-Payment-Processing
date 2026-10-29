@@ -8,7 +8,7 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Currency-Payment-Processing?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Payment-Processing/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Currency-Payment-Processing?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Payment-Processing/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Payment-Processing/blob/main/README.md#how-to-contribute)
 [![Tracked Status](https://img.shields.io/badge/Status-Actively%20Maintained-blue.svg)](#)
@@ -66,68 +66,68 @@ A comprehensive benchmark of leading global payment service providers, multi-cur
 
 Open-source multi-currency infrastructure spanning payment gateways, orchestration layers, double-entry financial ledgers, and rate engines.
 
-> *The repositories below are ranked descending by GitHub star count.*
+> *The repositories below are ranked descending by GitHub Stars_Count.*
 
 ### ⚡ Payment Orchestration & Core Engines
 
-- **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
+- **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
   A blazing-fast, community-driven payment orchestration engine written in **Rust** (Apache-2.0). Connects with 120+ payment processors and global payment methods with zero vendor lock-in, automated smart routing, distributed retries, multi-currency checkout optimization, and PCI-compliant vault architecture.
 
-- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   The leading open-source headless commerce and digital payments platform (Node.js / TypeScript, MIT). Offers first-class multi-currency region management, dynamic currency pricing matrices, custom exchange rate calculation hooks, and decoupled checkout payment plugins.
 
-- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** [![GitHub stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers)  
+- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** [![GitHub_Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers)  
   Self-hosted, open-source multi-asset cryptocurrency payment processor (.NET, MIT) engineered to operate with zero transaction fees, zero third-party intermediaries, dynamic fiat-to-crypto pricing conversion, and invoice generation in over 50+ fiat currencies.
 
-- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
   Production-tested open-source subscription billing and payments platform (Java, Apache-2.0). Provides multi-currency invoice generation, automated payment routing plugins, dunning management, and enterprise-grade ledger integration.
 
-- **[Liberapay](https://github.com/liberapay/liberapay.com)** [![GitHub stars](https://img.shields.io/github/stars/liberapay/liberapay.com?style=social&color=white)](https://github.com/liberapay/liberapay.com/stargazers)  
+- **[Liberapay](https://github.com/liberapay/liberapay.com)** [![GitHub_Stars](https://img.shields.io/github/stars/liberapay/liberapay.com?style=social&color=white)](https://github.com/liberapay/liberapay.com/stargazers)  
   Recurrent donations and multi-currency crowd-funding platform (Python, CC0-1.0). Handles multi-currency wallet balances, dynamic exchange rate conversions, and payout settlement across SEPA, Stripe, and PayPal rails.
 
 - **[GNU Taler](https://www.gnu.org/software/taler/)** [![Source Code](https://img.shields.io/badge/GNU%20Taler-Git%20Repo-white?style=social)](https://git.taler.net/)  
   Privacy-preserving open-source electronic payment protocol and system (GNU AGPL-3.0). Supports payments in multiple digital currencies and national currencies with mathematically verifiable anonymity for consumers and cryptographic accountability for merchants.
 
-- **[Formance Stack](https://github.com/formancehq/stack)** [![GitHub stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers)  
+- **[Formance Stack](https://github.com/formancehq/stack)** [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers)  
   Programmable financial core and multi-currency double-entry ledger platform (Go, Apache-2.0). Powers complex cross-border money movements, dynamic wallet balances, multi-currency settlement tracking, and payment flows.
 
-- **[Recurso](https://github.com/recurso-dev/recurso)** [![GitHub stars](https://img.shields.io/github/stars/recurso-dev/recurso?style=social&color=white)](https://github.com/recurso-dev/recurso/stargazers)  
+- **[Recurso](https://github.com/recurso-dev/recurso)** [![GitHub_Stars](https://img.shields.io/github/stars/recurso-dev/recurso?style=social&color=white)](https://github.com/recurso-dev/recurso/stargazers)  
   Modern open-source recurring billing and payment engine (Go + PostgreSQL, MIT). Features multi-currency invoicing, cross-border tax compliance (GST / VAT / US Sales Tax), and multi-gateway payment processing.
 
 ---
 
 ### 💱 Exchange Rate Engines & Currency Utilities
 
-- **[Dinero.js](https://github.com/dinerojs/dinero.js)** [![GitHub stars](https://img.shields.io/github/stars/dinerojs/dinero.js?style=social&color=white)](https://github.com/dinerojs/dinero.js/stargazers)  
+- **[Dinero.js](https://github.com/dinerojs/dinero.js)** [![GitHub_Stars](https://img.shields.io/github/stars/dinerojs/dinero.js?style=social&color=white)](https://github.com/dinerojs/dinero.js/stargazers)  
   Immutable library for creating, calculating, formatting, and converting multi-currency monetary amounts in JavaScript and TypeScript (MIT). Prevents IEEE 754 floating-point inaccuracies in financial calculations.
 
-- **[Money PHP](https://github.com/moneyphp/money)** [![GitHub stars](https://img.shields.io/github/stars/moneyphp/money?style=social&color=white)](https://github.com/moneyphp/money/stargazers)  
+- **[Money PHP](https://github.com/moneyphp/money)** [![GitHub_Stars](https://img.shields.io/github/stars/moneyphp/money?style=social&color=white)](https://github.com/moneyphp/money/stargazers)  
   PHP implementation of Fowler's Money Pattern (MIT). Encapsulates currency values, rounding modes, historical exchange rate loaders, and high-precision multi-currency arithmetic.
 
-- **[RubyMoney](https://github.com/RubyMoney/money)** [![GitHub stars](https://img.shields.io/github/stars/RubyMoney/money?style=social&color=white)](https://github.com/RubyMoney/money/stargazers)  
+- **[RubyMoney](https://github.com/RubyMoney/money)** [![GitHub_Stars](https://img.shields.io/github/stars/RubyMoney/money?style=social&color=white)](https://github.com/RubyMoney/money/stargazers)  
   Standard Ruby library for handling money and currency conversion (MIT). Features comprehensive ISO-4217 currency definitions, dynamic exchange rate banks, and financial formatting.
 
-- **[Exchange API](https://github.com/fawazahmed0/exchange-api)** [![GitHub stars](https://img.shields.io/github/stars/fawazahmed0/exchange-api?style=social&color=white)](https://github.com/fawazahmed0/exchange-api/stargazers)  
+- **[Exchange API](https://github.com/fawazahmed0/exchange-api)** [![GitHub_Stars](https://img.shields.io/github/stars/fawazahmed0/exchange-api?style=social&color=white)](https://github.com/fawazahmed0/exchange-api/stargazers)  
   Free, open-source daily currency exchange rate API tracking 150+ currencies and 500+ cryptocurrencies (MIT). Delivers zero-latency CDN-hosted exchange rate endpoints for client-side currency conversions.
 
-- **[openrate](https://github.com/vul-os/openrate)** [![GitHub stars](https://img.shields.io/github/stars/vul-os/openrate?style=social&color=white)](https://github.com/vul-os/openrate/stargazers)  
+- **[openrate](https://github.com/vul-os/openrate)** [![GitHub_Stars](https://img.shields.io/github/stars/vul-os/openrate?style=social&color=white)](https://github.com/vul-os/openrate/stargazers)  
   High-performance currency exchange rate engine (Go, MIT). Collects and grades real-time rates with confidence scoring from central banks (ECB, SARB) and institutional feeds with an embedded HTTP API.
 
 ---
 
 ### 🧪 Reference Implementations & Banking Demos
 
-- **[GEN-PAY](https://github.com/kingabzpro/Gen-Pay)** [![GitHub stars](https://img.shields.io/github/stars/kingabzpro/Gen-Pay?style=social&color=white)](https://github.com/kingabzpro/Gen-Pay/stargazers)  
+- **[GEN-PAY](https://github.com/kingabzpro/Gen-Pay)** [![GitHub_Stars](https://img.shields.io/github/stars/kingabzpro/Gen-Pay?style=social&color=white)](https://github.com/kingabzpro/Gen-Pay/stargazers)  
   Multi-currency neo-banking architecture demo inspired by Wise (Next.js 16 + Supabase, MIT). Showcases multi-currency wallet creation, instant FX balance conversions, mock debit card issuance, and international transfer UX.
 
 ---
 
 ### 🪙 Multi-Currency Crypto & Alternative Rails
 
-- **[Bitcart](https://github.com/bitcart/bitcart)** [![GitHub stars](https://img.shields.io/github/stars/bitcart/bitcart?style=social&color=white)](https://github.com/bitcart/bitcart/stargazers)  
+- **[Bitcart](https://github.com/bitcart/bitcart)** [![GitHub_Stars](https://img.shields.io/github/stars/bitcart/bitcart?style=social&color=white)](https://github.com/bitcart/bitcart/stargazers)  
   Production-ready self-hosted multi-cryptocurrency gateway and merchant platform (Python, MIT). Supports BTC, ETH, LTC, BCH, Monero, TRX, USDT, and Lightning Network with automated fiat-rate indexing.
 
-- **[Lumina](https://github.com/DammyAji/Lumina)** [![GitHub stars](https://img.shields.io/github/stars/DammyAji/Lumina?style=social&color=white)](https://github.com/DammyAji/Lumina/stargazers)  
+- **[Lumina](https://github.com/DammyAji/Lumina)** [![GitHub_Stars](https://img.shields.io/github/stars/DammyAji/Lumina?style=social&color=white)](https://github.com/DammyAji/Lumina/stargazers)  
   Decentralized multi-asset payment gateway built on Stellar (TypeScript, MIT). Accepts multi-crypto deposits, performs instant path-finding conversions to stablecoins (USDC), and settles funds with low network fees.
 
 ---
