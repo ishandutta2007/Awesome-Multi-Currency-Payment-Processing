@@ -6,10 +6,13 @@
 
 > 🚀 **A curated directory of enterprise SaaS platforms, payment service providers (PSPs), currency conversion APIs, and self-hosted open-source payment orchestration infrastructure for global multi-currency commerce.**
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Currency-Payment-Processing?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Payment-Processing/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Currency-Payment-Processing/blob/main/README.md#how-to-contribute)
 [![Tracked Status](https://img.shields.io/badge/Status-Actively%20Maintained-blue.svg)](#)
+[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
 ---
 
@@ -24,6 +27,8 @@
   - [🪙 Multi-Currency Crypto & Alternative Rails](#-multi-currency-crypto--alternative-rails)
 - [🛠️ Architectural Considerations: Build vs. Buy](#️-architectural-considerations-build-vs-buy)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance Notes](#️-disclaimer--compliance-notes)
 
 ---
@@ -175,6 +180,24 @@ Contributions are warmly encouraged! To suggest a new open-source project or hos
 3. Add the project to the appropriate section in alphabetical order or by relevant rank.
 4. Provide verified pricing tiers, free tier constraints, and official GitHub / documentation links.
 5. Submit a **Pull Request** detailing the addition.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this repository! If this curated collection helped you navigate global multi-currency payment infrastructure or architect your fintech systems, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite multi-currency tools and libraries.
+- 📢 **Share with fellow developers**, engineers, and fintech founders.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing maintenance and new curated resources, you can sponsor the project via GitHub Sponsors:  
+  [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-Multi-Currency-Payment-Processing&Date)](https://star-history.com/#ishandutta2007/Awesome-Multi-Currency-Payment-Processing&Date)
 
 ---
 
